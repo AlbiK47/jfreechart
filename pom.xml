@@ -57,17 +57,7 @@
         <project.target.level>11</project.target.level>
     </properties>
          
-         <properties>
-  <sonar.organization>albik47</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
-         
-         <properties>
-  <sonar.organization>albik47</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
-
-         <properties>
+        <properties>
   <sonar.organization>albik47</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
